@@ -1,23 +1,24 @@
 Address Label	Company Name	Address 1	Address 2	City	State	Postal Code
-"Arker Companies - Albany Ave, Brooklyn"	Arker Companies	7 Albany Avenue	Albany Kingston	Brooklyn	NY	11216
-"Arker Companies - Baily Ave, Bronx"	Arker Companies	3340 Bailey Avenue	Fort Independence	Bronx	NY	10463
-"Arker Companies - E. 166th St, Bronx"	Arker Companies	210 E. 166Th Street	Management Office	Bronx	NY	10456
-"Arker Companies - E. 178th St, Bronx"	Arker Companies	1010 E. 178Th Street		Bronx	NY	10456
+Arker Companies - Albany Ave, Brooklyn	Arker Companies	7 Albany Avenue	Albany Kingston	Brooklyn	NY	11216
+Arker Companies - Baily Ave, Bronx	Arker Companies	3340 Bailey Avenue	Fort Independence	Bronx	NY	10463
+Arker Companies - E. 166th St, Bronx	Arker Companies	210 E. 166Th Street	Management Office	Bronx	NY	10456
+Arker Companies - E. 178th St, Bronx	Arker Companies	1010 E. 178Th Street		Bronx	NY	10456
 Elbee Gardens	Elbee Gardens	1950 Clove Road	Management Office	Staten Island	NY	10304
-"Arker Companies - Father Caposanno Blvd, Steten Island"	Arker Companies	20 Father Capodanno Boulevard	Ste 1E Mgmt Office	Staten Island	NY	10305
-"Arker Companies - Findlay Ave, Bronx"	Bronx Arker Companies	1041 Findlay Avenue	Management Office	Bronx	NY	10456
-"Arker Companies - Harrison Ave, Bronx"	Arker Companies	1925 Harrison Avenue		Bronx	NY	10453
+Arker Companies - Father Caposanno Blvd, Steten Island	Arker Companies	20 Father Capodanno Boulevard	Ste 1E Mgmt Office	Staten Island	NY	10305
+Arker Companies - Findlay Ave, Bronx	Bronx Arker Companies	1041 Findlay Avenue	Management Office	Bronx	NY	10456
+Arker Companies - Harrison Ave, Bronx	Arker Companies	1925 Harrison Avenue		Bronx	NY	10453
 Arker Companies - New Haven Ave	New Haven Ave	22-10 New Haven Avenue	Management Office	Far Rockaway	NY	11691
-"Arker Companies - Northern Blvd, Roslyn"	Arker Companies	1044 Northern Boulevard	2nd FL	Roslyn	NY	11576
+Arker Companies - Northern Blvd, Roslyn	Arker Companies	1044 Northern Boulevard	2nd FL	Roslyn	NY	11576
 Arker Companies - Oceanview II	Arker Companies Oceanview II	249 Beach 15th Street	L-111	Far Rockaway	NY	11691
-"Arker Companies - Schroders Ave 1st Fl, Brooklyn"	Arker Companies	673 Schroders Avenue	1st Floor	Brooklyn	NY	11239
-"Arker Companies - Schroders Ave 2nd F, Brooklyn"	Arker Companies	673 Schroders Avenue	Mgmt Office - 2nd Floor	Brooklyn	NY	11239
-"Arker Companies - Stuben St, Staten Island"	Arker Companies	195 Stuben Street	Management Office	Staten Island	NY	10304
-"Arker Companies - Warren St, Brooklyn"	Arker Companies	572 Warren Street	Front Office	Brooklyn	NY	11217
-"Armstrong  - Lexington Ave, Brooklyn"	Armstrong 264 Lex	264 Lexington Avenue		Brooklyn	NY	11216
+Arker Companies - Schroders Ave 1st Fl, Brooklyn	Arker Companies	673 Schroders Avenue	1st Floor	Brooklyn	NY	11239
+Arker Companies - Schroders Ave 2nd F, Brooklyn	Arker Companies	673 Schroders Avenue	Mgmt Office - 2nd Floor	Brooklyn	NY	11239
+Arker Companies - Stuben St, Staten Island	Arker Companies	195 Stuben Street	Management Office	Staten Island	NY	10304
+Arker Companies - Warren St, Brooklyn	Arker Companies	572 Warren Street	Front Office	Brooklyn	NY	11217
+Armstrong  - Lexington Ave, Brooklyn	Armstrong 264 Lex	264 Lexington Avenue		Brooklyn	NY	11216
 Bushwick Cedar Partners Office	Bushwick Cedar Partners Office	757 Bushwick Avenue	Basement	Brooklyn	NY	11221
-"Progressive Management - Lexington, Brooklyn"	Progressive	260 Lexington Avenue		Brooklyn	NY	11216
-"Progressive Management - Rev James Basement, Bronx"	Progressive Management	881 Rev James A Polite Avenue		Bronx	NY	10459
-"Progressive Management - Rev James Ground Fl, Bronx"	Progressive Management	881 Rev James A Polite Avenue	Ground FL	Bronx	NY	10459
-"Progressive Management - Rev James NWB Leasing, Bronx"	Progressive Management	881 Rev James A Polite Avenue	NWB Leasing	Bronx	NY	10459
+Progressive Management - Lexington, Brooklyn	Progressive	260 Lexington Avenue		Brooklyn	NY	11216
+Progressive Management - Rev James Basement, Bronx	Progressive Management	881 Rev James A Polite Avenue		Bronx	NY	10459
+Progressive Management - Rev James Ground Fl, Bronx	Progressive Management	881 Rev James A Polite Avenue	Ground FL	Bronx	NY	10459
+Progressive Management - Rev James NWB Leasing, Bronx	Progressive Management	881 Rev James A Polite Avenue	NWB Leasing	Bronx	NY	10459
 Weeksville	Weeksville	1672 Pacific Street	Basement	Brooklyn	NY	11213
+
