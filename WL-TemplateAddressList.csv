@@ -1,6 +1,6 @@
 ﻿Address Label,Company Name,Address 1,Address 2,City,State,Postal Code
-"Arker Companies - Albany Ave, Brooklyn",Arker Companies,7 Albany Avenue,Albany Kingston,Brooklyn,NY,11216
-"Arker Companies - Baily Ave, Bronx",Arker Companies,3340 Bailey Avenue,Fort Independence,Bronx,NY,10463
+Arker Companies - Albany Ave, Brooklyn,Arker Companies,7 Albany Avenue,Albany Kingston,Brooklyn,NY,11216
+Arker Companies - Baily Ave, Bronx,Arker Companies,3340 Bailey Avenue,Fort Independence,Bronx,NY,10463
 "Arker Companies - E. 166th St, Bronx",Arker Companies,210 E. 166Th Street,Management Office,Bronx,NY,10456
 "Arker Companies - E. 178th St, Bronx",Arker Companies,1010 E. 178Th Street,,Bronx,NY,10456
 Elbee Gardens,Elbee Gardens,1950 Clove Road,Management Office,Staten Island,NY,10304
@@ -21,3 +21,4 @@ Bushwick Cedar Partners Office,Bushwick Cedar Partners Office,757 Bushwick Avenu
 "Progressive Management - Rev James Ground Fl, Bronx",Progressive Management,881 Rev James A Polite Avenue,Ground FL,Bronx,NY,10459
 "Progressive Management - Rev James NWB Leasing, Bronx",Progressive Management,881 Rev James A Polite Avenue,NWB Leasing,Bronx,NY,10459
 Weeksville,Weeksville,1672 Pacific Street,Basement,Brooklyn,NY,11213
+
