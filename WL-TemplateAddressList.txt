@@ -14,11 +14,12 @@ Arker Companies - Schroders Ave 1st Fl, Brooklyn|Arker Companies|673 Schroders A
 Arker Companies - Schroders Ave 2nd F, Brooklyn|Arker Companies|673 Schroders Avenue|Mgmt Office - 2nd Floor|Brooklyn|NY|11239
 Arker Companies - Stuben St, Staten Island|Arker Companies|195 Stuben Street|Management Office|Staten Island|NY|10304
 Arker Companies - Warren St, Brooklyn|Arker Companies|572 Warren Street|Front Office|Brooklyn|NY|11217
-Armstrong  - Lexington Ave, Brooklyn|Armstrong 264 Lex|264 Lexington Avenue||Brooklyn|NY|11216
+Armstrong - Lexington Ave, Brooklyn|Armstrong 264 Lex|264 Lexington Avenue||Brooklyn|NY|11216
 Bushwick Cedar Partners Office|Bushwick Cedar Partners Office|757 Bushwick Avenue|Basement|Brooklyn|NY|11221
 Progressive Management - Lexington, Brooklyn|Progressive|260 Lexington Avenue||Brooklyn|NY|11216
 Progressive Management - Rev James Basement, Bronx|Progressive Management|881 Rev James A Polite Avenue||Bronx|NY|10459
 Progressive Management - Rev James Ground Fl, Bronx|Progressive Management|881 Rev James A Polite Avenue|Ground FL|Bronx|NY|10459
 Progressive Management - Rev James NWB Leasing, Bronx|Progressive Management|881 Rev James A Polite Avenue|NWB Leasing|Bronx|NY|10459
 Weeksville|Weeksville|1672 Pacific Street|Basement|Brooklyn|NY|11213
+
 
